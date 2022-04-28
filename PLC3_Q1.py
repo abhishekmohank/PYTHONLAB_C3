@@ -53,7 +53,6 @@ img = pygame.image.load("assets/O.png")
 img.convert()
 img = pygame.transform.scale(img, (80, 80))
 rect = img.get_rect()
-21-805-0106: Python Programming Lab
 rect.center = board[i][j].center
 active_squares.append((img, rect))
 row_sum[i] += player
