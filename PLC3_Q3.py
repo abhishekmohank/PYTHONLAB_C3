@@ -11,7 +11,7 @@ color=["r", "g", "b"],
 xlabel="Species",
 ylabel="Frequency of Species",
 )
-21-805-0106: Python Programming Lab
+
 plt.title("Frequency Bar Graph")
 plt.show()
 # plotting the principal analysis graph for two components
@@ -47,7 +47,7 @@ plt.hist(x, color="r")
 plt.title("Sepal Length Histogram")
 plt.xlabel("Sepal Length cm")
 plt.ylabel("Distribution Count")
-21-805-0106: Python Programming Lab
+
 plt.show()
 # histogram for sepal width.
 plt.figure(figsize=(7, 5))
