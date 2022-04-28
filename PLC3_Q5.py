@@ -187,7 +187,7 @@ treeList.heading("Eng Number",text="Eng Number")
 treeList.heading("Mileage",text="Mileage")
 treeList[’show’]=’headings’
 treeList.column("Owner",width=90, anchor="center")
-21-805-0106: Python Programming Lab
+
 treeList.column("Vendor",width=50, anchor="center")
 treeList.column("Model",width=50, anchor="center")
 treeList.column("Type",width=40, anchor="center")
